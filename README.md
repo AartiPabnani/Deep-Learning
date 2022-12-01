@@ -7,9 +7,6 @@ Deep learning drives many artificial intelligence (AI) applications and services
 
 
 
-
-## Screenshots
-
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 # Deep learning vs. machine learning
